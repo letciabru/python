@@ -18,4 +18,4 @@ while contador <= 40:
 
  # após o término do loop, imprime a mensagem de finalização
 
-print("fim  do programa")
+print("fim  do programa!")

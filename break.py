@@ -6,4 +6,4 @@ while True:
 
     print(f'seu nome é  {nome}')
 
-print('acabou!!!')
+print('fim do programa!!')
